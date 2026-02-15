@@ -1,4 +1,4 @@
-import Navbar from './Components/Navbar'
+import Navbar from './Components/Navbar.jsx'
 import Hero from './sections/Hero'
 import Projects from './sections/Projects'
 import Skills from './sections/Skills.jsx'

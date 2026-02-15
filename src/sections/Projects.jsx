@@ -1,4 +1,4 @@
-import ProjectCard from '../components/ProjectCard'
+import ProjectCard from '../Components/ProjectCard'
 const projects = [
     {
         title: "Task Management Dashboard",
